@@ -1,2 +1,0 @@
-# pod-templates
-pod-templates
